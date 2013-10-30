@@ -1,0 +1,169 @@
+/*
+Command buttons.
+*/
+
+.win-command {
+  display: inline-block;
+  height: auto;
+  margin: 0 5px;
+  font-size: 9pt;
+  font-weight: normal;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  vertical-align: top;
+  cursor: pointer;
+  background: none;
+  border: 0;
+  background-clip: border-box;
+}
+
+/*
+Command button icons.
+*/
+
+.win-commandicon {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  min-width: 0;
+  min-height: 0;
+  padding: 0;
+  font-size: 24px;
+  line-height: 40px !important;
+}
+
+.win-commandimage {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  letter-spacing: 0;
+  vertical-align: middle;
+}
+
+/*
+Command button "ring".
+*/
+
+.win-commandring {
+  border-style: solid;
+  border-width: 2px;
+  -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+          border-radius: 50%;
+  background-clip: border-box;
+}
+
+a:hover:active .win-commandring,
+a[aria-checked=true] .win-commandring,
+a[aria-checked=true]:active .win-commandring,
+a[aria-checked=true]:disabled .win-commandring,
+a[aria-checked=true]:disabled:active .win-commandring,
+button:hover:active .win-commandring,
+button[aria-checked=true] .win-commandring,
+button[aria-checked=true]:active .win-commandring,
+button[aria-checked=true]:disabled .win-commandring,
+button[aria-checked=true]:disabled:active .win-commandring {
+  background-clip: border-box;
+}
+
+/*
+Command button labels.
+*/
+
+a.win-command .win-label,
+button.win-command .win-label {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding-right: 4px;
+  padding-left: 4px;
+  margin-top: 3px;
+  overflow: hidden;
+  line-height: 15px;
+  word-break: keep-all;
+  word-wrap: break-word;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a.win-command,
+a.win-command:hover {
+  text-decoration: none;
+}
+
+.win-command.win-command-large .win-commandicon {
+  width: 60px;
+  height: 60px;
+  font-size: 40px;
+  line-height: 60px !important;
+  text-align: center;
+}
+
+.win-command.win-command-small .win-commandicon {
+  width: 24px;
+  height: 24px;
+  font-size: 16px;
+  line-height: 24px !important;
+}
+
+/*
+AppBarCommand separator.
+*/
+
+hr.win-command {
+  display: inline-block;
+  width: 1px;
+  height: 40px;
+  padding: 0;
+  margin: 14px 29px 34px 30px;
+  vertical-align: top;
+  border: 0;
+}
+
+/*
+AppBar Edgy Container
+*/
+
+.win-appbar {
+  position: fixed;
+  left: 0;
+  z-index: 1001;
+  width: 100%;
+  height: auto;
+  border-width: 0;
+}
+
+/*
+AppBar control.
+*/
+
+.win-commandlayout {
+  min-height: 88px;
+  padding-left: 10px;
+  font-size: 0;
+}
+
+.win-commandlayout .win-selection {
+  float: left;
+}
+
+.win-commandlayout .win-command {
+  padding: 12px 0;
+}
+
+a [class^="icon-"], 
+a [class*=" icon-"], 
+a [class^="icon-"]:before, 
+a [class*=" icon-"]:before {
+    display: inline-block;
+}
+
+.win-ui-dark {
+	background-color: #1D1D1D;
+    color: #FFFFFF;
+}
+ .win-ui-dark button {
+    color: #FFFFFF;
+}
