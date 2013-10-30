@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61048f07-d411-4ad1-84d3-2da8d753492b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/1pixel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/1tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/2tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/3tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/4tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/5tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/6tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/7tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/8tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/9tw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/HTML5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/img/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/avatar1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/avatar4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/css3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/img/form.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/gallery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-1 (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-2 (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/image-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/reunion-logo-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/sample-tiles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/thumb-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/thumb-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery/thumb-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/ui-bg_glass_20_555555_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/ui-bg_gloss-wave_25_333333_500x100 (1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/ui-bg_gloss-wave_25_333333_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/ui-bg_inset-soft_25_000000_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/avatars/user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/waiting.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/windows8-official-wallpaper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/AFE.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/MetroJs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/MetroJs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/ace-elements.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/ace-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/ace-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/ace.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/ace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootmetro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap-colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/date-time/bootstrap-datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/markdown/bootstrap-markdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/date-time/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap-wysiwyg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/checkbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/chosen.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/colorbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/combobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/combobox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/datagrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/datagrid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/date-time/daterangepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/error-404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/error-500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form-elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form-wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/css/fuelux-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/fuelux-responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/css/fuelux-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/css/fuelux.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/fuelux.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/css/fuelux.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/fuelux.spinner.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/data/fuelux.tree-sampledata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/fuelux.tree.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/fuelux.wizard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/intelligent-dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/intelligent-dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/jquery-ui-1.10.3.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-ui-1.10.3.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.autosize-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.colorbox-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.easy-pie-chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/flot/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/flot/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.gritter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.hotkeys.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.inputlimiter.1.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.knob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.maskedinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/justgage.1.0.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/loader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/markdown/markdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/date-time/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/pillbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/pillbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pricing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/radio.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/raphael.2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/search.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/select.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/sparklines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/spin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/spinner.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/tree.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treeview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/fuelux/less/wizard.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wysiwyg.html" />
+      <change type="DELETED" beforePath="D:\work\AFE\images\bg_hr.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\AFE\images\blacktocat.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\AFE\images\icon_download.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\AFE\images\sprite_download.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\AFE\javascripts\main.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\AFE\params.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\AFE\stylesheets\pygment_trac.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\AFE\stylesheets\stylesheet.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="AFE.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="61048f07-d411-4ad1-84d3-2da8d753492b" time="1383143896357" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AFE" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\AFE" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61048f07-d411-4ad1-84d3-2da8d753492b" name="Default" comment="" />
+      <created>1383143779920</created>
+      <updated>1383143779920</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="page" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="page" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+
